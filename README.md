@@ -1,7 +1,7 @@
 # secondattempt
 Time to mess up again...
 ## introduction
-
+Nice words but by the other self.
 ## design overview
 
 ## second section  
